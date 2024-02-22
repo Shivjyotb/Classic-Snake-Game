@@ -1,0 +1,3 @@
+- I used HTML5, CSS, and JavaScript to create a simple interactive snake game.
+- This classic Snake game requires the player to control a snake to eat apples and grow bigger.
+- Score control feature to keep players engaged in the game.
